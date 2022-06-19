@@ -1,0 +1,7 @@
+C:\Users\Macintosh-PC\source\repos\szinkeveres\szinkeveres\bin\Debug\szinkeveres.exe.config
+C:\Users\Macintosh-PC\source\repos\szinkeveres\szinkeveres\bin\Debug\szinkeveres.exe
+C:\Users\Macintosh-PC\source\repos\szinkeveres\szinkeveres\bin\Debug\szinkeveres.pdb
+C:\Users\Macintosh-PC\source\repos\szinkeveres\szinkeveres\obj\Debug\szinkeveres.csprojAssemblyReference.cache
+C:\Users\Macintosh-PC\source\repos\szinkeveres\szinkeveres\obj\Debug\szinkeveres.csproj.CoreCompileInputs.cache
+C:\Users\Macintosh-PC\source\repos\szinkeveres\szinkeveres\obj\Debug\szinkeveres.exe
+C:\Users\Macintosh-PC\source\repos\szinkeveres\szinkeveres\obj\Debug\szinkeveres.pdb
